@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **scottn523@gmail.com**
 
-- ⚡ Fun fact **I've studied languages for 7 years!**
+- ⚡ Fun fact **I've studied varying languages for 7 years!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
