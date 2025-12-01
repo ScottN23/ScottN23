@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Scott Nguyen</h1>
-<h3 align="center">A passionate frontend developer from Seattle, Washington</h3>
+<h3 align="center">A passionate full-stack developer from Seattle, Washington</h3>
 
 - 🔭 I’m currently working on [MyMicrojourney](https://mymicrojourney.com/)
 
